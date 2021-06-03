@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and instructions from the Committee of Estates, to the colonels and committees of warre, in the severall sheriffdoms of the Kingdom of Scotland concerning their generall rendezvous at Hairlaw within four miles of Berwick, upon the 29 of this present December, with a body of twenty five thousand horse and foot.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58604</idno><idno type="EEBO-CITATION">13144714</idno>
+  <idno type="VID">98062</idno>
+  <idno type="EEBO-PROQUEST">2248521300</idno>
+  
+            <idno type="STC">Wing S1198A</idno>
+            <idno type="STC">ESTC R15594</idno>
+            <idno type="OCLC">13144714</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and instructions from the Committee of Estates, to the colonels and committees of warre, in the severall sheriffdoms of the Kingdom of Scotland concerning their generall rendezvous at Hairlaw within four miles of Berwick, upon the 29 of this present December, with a body of twenty five thousand horse and foot.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler ... ;</publisher>
+                  <publisher>for Edw. Husbands,</publisher>
+                  <pubPlace>First printed at Edinburgh :</pubPlace>
+                  <pubPlace>and now reprinted at London :</pubPlace>
+                  <date>Dec. 11, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98062:1"/>
+            <p>A DECLARATION <hi>AND</hi> Instructions from the Committee OF ESTATES, TO THE COLONELS and COMMITTEES OF WARRE, In the severall Sheriffdoms of the Kingdom of Scotland: Concerning their generall Rendezvous at <hi>Hairlaw</hi> within four miles of <hi>Berwick,</hi> upon the 29. of this present December, <hi>VVith a Body of Twenty five thousand HORSE and FOOT.</hi>
+            </p>
+            <p>Published by Authority.</p>
+            <p>First printed at Edinburgh by <hi>Evan Tyler,</hi> Printer to the Kings most excellent Majesty; And now Reprinted at <hi>London</hi> for <hi>Edw. Husbands,</hi> Dec. 11. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98062:2"/>
+            <pb n="3" facs="tcp:98062:2"/>
+            <head>Instructions from the <hi>Committee</hi> OF <hi>ESTATES,</hi> To the Colonells and Committees of War, in the severall Sheriffdoms of the King<g ref="char:EOLhyphen"/>dom of Scotland.</head>
+            <opener>
+               <dateline>At Edinburgh,
+<date>24. November, 1643.</date>
+               </dateline>
+            </opener>
+            <p>THe lamentable estate and condition of the Pro<g ref="char:EOLhyphen"/>testant Religion, and Professours thereof in <hi>England,</hi> and <hi>Ireland,</hi> with the imminent danger of the same in <hi>Scotland,</hi> moved the Gonvention of E<g ref="char:EOLhyphen"/>states to enter into a Treaty with the Commissioners of both Houses of the Parliament of <hi>England,</hi> who craved the aide and assistance of this Kingdome, a<g ref="char:EOLhyphen"/>gainst the common enemies of Religion: The result of the first part of which Treaty, with concourse of the Generall Assembly, was a joynt resolution to en<g ref="char:EOLhyphen"/>ter into a Solemn League and Covenant, for the main<g ref="char:EOLhyphen"/>tenance and reformation of Religion, preservation of his Majesties Honour, and settling and securing the Peace of the three Kingdomes: The other parts of the Treaty were concerning the means and maner of the raising and maintaining a considerable Army in pur<g ref="char:EOLhyphen"/>suance of the ends of the said Covenant, as is more fully exprest in the Declaration of this Kingdome herewith sent. And because the publick burdens of this Kingdome are so great, that the Army could not be levied and entertained without some considerable summe of money from <hi>England,</hi> or elswhere:</p>
+            <pb n="4" facs="tcp:98062:3"/>
+            <p>The consideration whereof moved the saids honourable Houses of Parliament to agree, (when they shall be enabled, either upon their owne, or the publick faith of both King<g ref="char:EOLhyphen"/>domes) To pay the summe of an hundred thousand pounds sterlin, to be allowed in the monethly pay of the Army, after the marching thereof into <hi>England.</hi> And notwithstanding their many urgent affaires and necessities pressed them otherwise, yet they have sent hither the one halfe of the said summe, and expects a speedy march of the Army towards their relief.</p>
+            <p>If the Treaty, as it is now agreed, (which is the warrantable call for our going into <hi>England</hi>) had been sooner sent hither and concluded, the Rendezvous of the army had been before this time appointed: But since that time is spent, and the ene<g ref="char:EOLhyphen"/>mies strength by the Cessation in <hi>Ireland</hi> daily augmenteth, there is the more necessity to make the greater haste to the expediti<g ref="char:EOLhyphen"/>on: It is true the Winter is not yet past, yet all possible meanes shall be used to provide so for the Souldiers, that they may be sheltered from the violence of the Weather: The day will be lengthening, our Brethren are longing for us; And by lingring and delayes, courage will be given to the enemies. And therefore, and that the whole Kingdome may know the time and place of the Rendezvous of the said Army, the Com<g ref="char:EOLhyphen"/>mittee of Estates have appointed the said Generall Rendez<g ref="char:EOLhyphen"/>vous to be kept at HAIRLAW, within 4. miles of Ber<g ref="char:EOLhyphen"/>wick, upon the nine and twenty day of December next.</p>
+            <p>And ordaines the Shires after specified, to bring the num<g ref="char:EOLhyphen"/>bers of men, horse and foot to the said Rendezvous the aforesaid day, <hi>viz.</hi> the Sheriffdomes of Roxburgh and Selkirk, two thou<g ref="char:EOLhyphen"/>sand foot, and two hundred horse; The Sheriffdome of Ber<g ref="char:EOLhyphen"/>wick, twelve hundred foot, and a hundred and twenty horse: The Sheriffdome of Hadinton, twelve hundred foot, and a hun<g ref="char:EOLhyphen"/>dred and twenty horse: The Sheriffdom of Lithgow, five hun<g ref="char:EOLhyphen"/>dred foot, and sixtie horse: The Sheriffdome of Edinburgh, twelve hundred foot, and a hundred and twenty horse: The Sheriffedome of Peebles, foure hundred foot, and fortie horse: The Burgh of Edinburgh, Canongate, and Leith, twelve hundred foot: The Sheriffdome of Dumfreis, twelve hundred foot, and a hundred and twentie horse: The Sheriffdoms of
+<pb n="5" facs="tcp:98062:3"/> Air and Renfrew, two thousand foot, and two hundred and fourtie horse: The Sheriffedome of Lancrick, a thousand and five hundred foot, and two hundred horse: The Sheriffedomes of Stirlin and Clackmanan, a thousand foot, and a hundred and twentie horse: The Sheriffedomes of Fyfe and Kinrosh, two thousand and foure hundred foot, and two hundred and fourtie horse: The Sheriffedome of Perth, two thousand and foure hun<g ref="char:EOLhyphen"/>dred foot, and two hundred and fourtie horse: The Sheriffe<g ref="char:EOLhyphen"/>dome of Forfar, a thousand and five hundred foot, and a hun<g ref="char:EOLhyphen"/>dred and fourtie horse: The Sheriffedome of Kinkardin, and the Earle of Marshels part of Aberdene, a thousand and two hundred foot; and a hundred horse: The rest of the Sheriffedome of Aberdene and Bamff, a thousand and sixe hundred foot, and two hundred and fourtie horse: The Sheriffedomes of Elgin, Narne, and Innernesse on this side of Nesse, a hundred and twentie horse.</p>
+            <p>Howbeit the Loane be granted by the Convention of E<g ref="char:EOLhyphen"/>states, for payment of these who furnished Victuals, Money, and Provision for <hi>Ireland,</hi> and should have been employed for no other use untill they had beene satisfied, whose just debt after compt, will exceed seven hundred thousand Pounds: Yet in respect that the Kingdome of <hi>Scotland</hi> is obliged by the said Treaty, to leavy, out-rig, arme, and transport the Army to the Borders of <hi>England</hi> on this Kingdoms expences, to be repayed by the Parliament of <hi>England,</hi> when GOD shall send peace to both Nations; The Committee of Estates for the case of the Noblemen, Gentlemen, and Burrows, resol<g ref="char:EOLhyphen"/>ved to borrow so much of the said Loane, as shall pay the leavy Money for horse and foor, with Carriage horses, con<g ref="char:EOLhyphen"/>forme to compt sent with the last instructions: Whereby the the said Loane is so exhausted, that what is over and above, must with all speed be payed, to the effect the saids furnishers and advancers may have some part of the great summes owing them, to keepe their credit till some way bee found how the rest may be paid them, and they secured in the meane time.</p>
+            <p>The Money which is come from England is not so much as was proposed, and therefore must not bee disbursed, except onely for what is necessary for the provisions and pay of the
+<pb n="6" facs="tcp:98062:4"/> Armie, after they shall come to the generall Rendezvous.</p>
+            <p>The Loan and Taxt must presently be advanced to the Sub-collector of the Shire, to the effectt the said Levie-Moneys may be delivered to the Souldiers, Horse and Foot, and the Carriage Horses payed, conform to the Orders former<g ref="char:EOLhyphen"/>ly and herewith sent to severall Sheriffedoms <hi>respectivè,</hi> which Loan and Taxt being so advanced to the said Sub-collector, hee is immediately thereafter to deliver the said Levie-Mo<g ref="char:EOLhyphen"/>neys, and prices of the said Carriage-Horses, as the Colo<g ref="char:EOLhyphen"/>nells and Committees of War shall appoint. And the Com<g ref="char:EOLhyphen"/>mittee likewise ordains the Transport-Mony for Horse and Foot, allowing to every Foot-man Souldier, and every Car<g ref="char:EOLhyphen"/>riage-man for each twelve miles, six shillings Scots▪ and to each Horse-man, eighteen Shillings Scots for every twenty miles, from the Rendezvous of the Shire to the generall Rendezvous, conform to the former Orders, to be paid out of the Loan and Taxt by the Sub-collector of every Shire.</p>
+            <p>And in case any of the Troopes shall be levied, and rea<g ref="char:EOLhyphen"/>dy before the day of Rendezvous, above specified, The Com<g ref="char:EOLhyphen"/>mittee declares that upon notice given thereof to the said Committee, they will cause Muster, Inroll, and provide Quar<g ref="char:EOLhyphen"/>ters for them untill the generall Rendezvous.</p>
+            <p>And because of the scarcity of Arms in the publique Ma<g ref="char:EOLhyphen"/>gazine (the exhausting whereof at this time, may prove dangerous) The Committee hath ordained all the Shires to send out their men armed, two parts with Muskets, and the third part with Pikes, according to the first Orders precise<g ref="char:EOLhyphen"/>ly; or if any want Aarms, that they deliver ten pound for every Musket, and five Marks for every Pike, to the Quar<g ref="char:EOLhyphen"/>ter-Master of the Regiment, the Colonell being answerable for him, and to send here the Ticket of receipt thereof, from the said Quarter-Masters. And if any persons bring out neither Armes nor this Money, there shall be taken▪ from the Heretor, as a penalty, twenty Pound for every Musket, and ten Marks for every Pike. And because of the hundred thousand Pound promised by the Kingdome of England, there is onely come fifty; the Committee cannot for the present give the summes promised for the price of
+<pb n="7" facs="tcp:98062:4"/> Arms, But how soone Money shall come, payment shall be made conform to the first Orders.</p>
+            <p>The Committee likewise thinke it necessary, and ordaines all the Souldiers to be provided with Pans, some Harne or Tvvill to be Tents, Caps, Stoups and Axes, conform to the Instructions of the first of September; And also with Bibles and Psalme Books, And sick like, ordains Carriage and Artillery Horses to be provided, conform to the last Orders of the twen<g ref="char:EOLhyphen"/>tieth of October sent herewith.</p>
+            <p>And for the more speedy bringing together of the said Forces, the Committee declares the Heretors of each Shire to be lyable and obliged to put out the numbers of Men, Horse and Foote; that will fall upon them, according to the proportion laid upon the Shire, and to be assisting to the Root-Master: And if any Heretor shall refuse to bring their Men designed to come out to the Rendezvous of the Shire, and deliver them there to their Captaines, The Committee gives hereby Commission to the Colonels and Committee of the Shire, to take of every one so sailing, the summe of fourty pound of penalty for each Souldier, together with any other men he hath.</p>
+            <p>And if any person or persons shall refuse or delay to pay and advance their Loan and Taxt, whereby the Leavie-Money for Horse and Foot, price of Carriage Horse and Transport-Money may not be timously payed, and so make the businesse to halt, and the Marching of the said Regiment tarded, The Committee gives Commission and power to the Colonells and Committees of War of the Shires to poynd and distreinʒie any such person or persons for the payment of their part of the leavie-Moneys for Horse and Foot, price of Carriage Horses and Transport-money (which shall not be allowed in part of their Loan) &amp; aye and while the said Money be paid, that the rest of the Regiment be Quartered upon them.</p>
+            <p>And for the better Reeping the souldiers in Order, Dis<g ref="char:EOLhyphen"/>cipline, and punctuall performance of the duties of Gods Worship, ordaines a Minister to be designed by the Preby<g ref="char:EOLhyphen"/>trie to come out with each Regiment: And ordaines the soul<g ref="char:EOLhyphen"/>diers, appoined to be sent out by the Ministers, to be sent with the Companies of the shire, with a Letter direct to
+<pb n="8" facs="tcp:98062:5"/> Colonell <hi>Arthur Areskine,</hi> bearing the name of the man they send, and the name and designation of the person with whom he is sent.</p>
+            <p>And the Committee of Estates declares, That all such Co<g ref="char:EOLhyphen"/>lonells, Committees of War, or others, who shall be negli<g ref="char:EOLhyphen"/>gent, or upon whose default the said Rendezvous shall not be punctually kept, shall be esteemed Enemies to Religion, the Kings Honour, and Peace of their Kingdoms.</p>
+            <p>And sicklike, that all persons who shall be designed either for Horse or Foot, or Carriage-man, and shall not come wil<g ref="char:EOLhyphen"/>lingly out at the time appointed so to them, and run away, they shall be declared and punished as fugitives by death, con<g ref="char:EOLhyphen"/>forme to the Articles of Military discipline: And all such as shall either receive or reset any of the said run-awayes, shall be lyable to such punishment in their person and goods, as the Committee shall thinke fit.</p>
+            <p>The Committees likwise ordains the Colonells of each Re<g ref="char:EOLhyphen"/>giment, to provide Colours and Drums for their owne Compa<g ref="char:EOLhyphen"/>nies, and such of their other Companies as are commanded by souldiers of fortune, and the rest of the Captains to provide for themselves, and upon their colours to draw these words: <hi>Covenant for Religion, Crowne and Kingdom.</hi>
+            </p>
+            <p>And since the diet abovementioned, is the furthest that can be granted for the time of Rendezvous▪ It is therefore earnest<g ref="char:EOLhyphen"/>ly desired, that all Colonells and Committees of War, and other persons within this Kingdom, use all diligence in bring<g ref="char:EOLhyphen"/>ing out these men, as they will testifie their affection to Reli<g ref="char:EOLhyphen"/>gion, His Majesties Honour and safety of His Kingdoms, and their sense of the danger of all these.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
